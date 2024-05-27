@@ -1,5 +1,12 @@
 [
   {
+    "name": "Google",
+    "url": "https://www.google.com/search?q=",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "站内",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
     "placeholder": "站内搜索",
@@ -11,13 +18,6 @@
     "url": "https://www.baidu.com/s?wd=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
     "placeholder": "百度一下",
-    "blocked": false,
-    "isInner": false
-  },
-  {
-    "name": "Google",
-    "url": "https://www.google.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
     "blocked": false,
     "isInner": false
   },
