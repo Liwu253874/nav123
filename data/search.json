@@ -18,7 +18,7 @@
     "url": "https://www.baidu.com/s?wd=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
     "placeholder": "百度一下",
-    "blocked": false,
+    "blocked": true,
     "isInner": false
   },
   {
