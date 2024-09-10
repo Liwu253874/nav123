@@ -16,9 +16,9 @@
     "build-internal": "ts-node ./scripts/internal.mjs",
     "setup": "npm run build-internal && tsc nav.config.ts && ts-node ./scripts/build.mjs",
     "build": "npm run setup && ng build",
+    "vercel-build": "npm run setup && ng build --prod",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
-    "vercel-build": "npm run setup && ng build --prod"
   },
   "private": true,
   "dependencies": {
