@@ -8,18 +8,10 @@
   },
   {
     "name": "站内",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "icon": "https://www.svgrepo.com/show/245713/search-words.svg",
     "placeholder": "站内搜索",
     "blocked": true,
     "isInner": true
-  },
-  {
-    "name": "百度",
-    "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
-    "placeholder": "百度一下",
-    "blocked": true,
-    "isInner": false
   },
   {
     "name": "必应",
